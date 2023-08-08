@@ -1,5 +1,28 @@
-template-repository (1.0-1) unstable; urgency=medium
+tllist (1.1.0-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream release
+  * Bump Standards-Version to 4.6.1.0 (no changes required)
+  * Update years in d/copyright
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Birger Schacht <birger@debian.org>  Sun, 07 Aug 2022 18:32:11 +0200
+
+tllist (1.0.5-1) unstable; urgency=medium
+
+  * New upstream release
+  * Fix watchfile
+  * Bump Standards-Version to 4.6.0.1 (no changes required)
+  * Update Vcs-URLs
+
+ -- Birger Schacht <birger@debian.org>  Sun, 07 Nov 2021 09:57:15 +0100
+
+tllist (1.0.4-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Birger Schacht <birger@debian.org>  Tue, 06 Oct 2020 19:57:18 +0200
+
+tllist (1.0.1-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #966328)
+
+ -- Birger Schacht <birger@debian.org>  Thu, 30 Jul 2020 10:20:37 +0200
